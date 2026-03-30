@@ -2,7 +2,7 @@ Monitor de Preços com Python
 Projeto de automação com foco em coleta e análise de dados para tomada de decisão
 Desenvolvido em Python para monitoramento de preços em e-commerces, com coleta de dados via Selenium e armazenamento de histórico em Excel.
 O projeto simula um cenário real de análise e acompanhamento de preços, aplicando lógica de negócio, tratamento de dados e automação de processos.
-- Principais funcionalidades
+Principais funcionalidades
 * Coleta automatizada de preços em páginas web dinâmicas
 * Verificação de disponibilidade do produto
 * Comparação com preço alvo definido
